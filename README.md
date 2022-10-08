@@ -1,2 +1,2 @@
 # Caesar_Cipher
-This project will convert plain text into cipher text.
+This project will convert the plain text into cipher text.
